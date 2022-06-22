@@ -79,13 +79,10 @@
                 </div>
             @endif
 
-            <div class="content">
-                <div class="title m-b-md">
-                    Boolpress
-                </div>
+             <div id="root">
 
-                
             </div>
         </div>
+        <script src="{{asset('js/front.js')}}" charset="utf-8"></script>
     </body>
 </html>
